@@ -1,6 +1,6 @@
 # web-chill-beta v1.0.1
 
-• Link Discod : https://discord.com/invite/chillreborn
+• Link Discod Server [CHILL](https://discord.com/invite/chillreborn)
 
 |Author|Social Media|
 |-------|------------|

@@ -1,7 +1,5 @@
 # Website Discord Server [CHILL](https://discord.com/invite/chillreborn)
 
-• Link Discod Server [CHILL](https://discord.com/invite/chillreborn)
-
 |Author|Social Media|
 |-------|------------|
 |Mas Kharisman|[Instragram](https://instagram.com/maskhar_1805) |

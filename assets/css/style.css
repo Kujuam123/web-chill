@@ -796,7 +796,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #5663F7;
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
@@ -1321,7 +1321,7 @@ section {
 }
 
 .team .member .pic {
-  border-radius: 4px;
+  border-radius: 7px;
   overflow: hidden;
 }
 
@@ -1351,14 +1351,24 @@ section {
 
 .team .member h4 {
   font-weight: 700;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
   font-size: 16px;
   color: #01036f;
   position: relative;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 
-.team .member h4::after {
+.team .member h3 {
+  font-weight: 700;
+  margin-bottom: 10px;
+  font-size: 10px;
+  color: #01036f;
+  position: relative;
+  padding-bottom: 5px;
+  padding-top: 1px;
+}
+
+.team .member h3::after {
   content: '';
   position: absolute;
   display: block;

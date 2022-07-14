@@ -1,4 +1,4 @@
-# web-chill-beta v1.0.1
+# Website Discord Server CHILL
 
 • Link Discod Server [CHILL](https://discord.com/invite/chillreborn)
 

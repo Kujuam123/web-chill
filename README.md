@@ -1,4 +1,4 @@
-# Website Discord Server CHILL
+# Website Discord Server [CHILL](https://discord.com/invite/chillreborn)
 
 • Link Discod Server [CHILL](https://discord.com/invite/chillreborn)
 

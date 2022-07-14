@@ -2,6 +2,8 @@
 
 • Link Discod : https://discord.com/invite/chillreborn
 
-|Audthor|Social Media|
+|Author|Social Media|
 |-------|------------|
-||[Instragram] (https://instagram.com/maskhar_18_05) |
+|Mas Kharisman|[Instragram](https://instagram.com/maskhar_1805) |
+||[Github](https://github.com/maskhar2708)|
+||[Whatsapp](https://wa.me/6282124840385)|

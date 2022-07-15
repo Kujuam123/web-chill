@@ -12,4 +12,3 @@
 ||[Github](https://github.com/luckystar28)|
 ||[Whatsapp](https://wa.me/6281290488983)|
 
-Tes

@@ -1,4 +1,4 @@
-# Website Discord Server [CHILL](https://discord.com/invite/chillreborn)
+# Website Discord Server [CHILL](https://discord.gg/6rTTqAqPjP)
 
 |Author|Social Media|
 |-------|------------|

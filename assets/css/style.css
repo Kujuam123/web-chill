@@ -610,6 +610,13 @@ label {
   padding: 120px 0 0 0;
 }
 
+#hero-1 {
+  width: 100%;
+  background: none;
+  position: relative;
+  padding: 120px 0 0 0;
+}
+
 #hero:before {
   content: "";
   background: rgb(64 64 64 / 91%);

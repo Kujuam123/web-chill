@@ -6,8 +6,8 @@
 ||[Github](https://github.com/maskhar2708)|
 ||[Whatsapp](https://wa.me/6282124840385)|
 
-|Author|Social Media|
+<!-- |Author|Social Media|
 |-------|------------|
 |ThisIsSam|[Instragram](https://instagram.com/simarmatasam) |
 ||[Github](https://github.com/luckystar28)|
-||[Whatsapp](https://wa.me/6281290488983)|
+||[Whatsapp](https://wa.me/6281290488983)| -->
